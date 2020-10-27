@@ -1,0 +1,12 @@
+admin
+password
+default
+login
+register
+about
+contact
+security
+privacy
+help
+about
+info

@@ -1,0 +1,4 @@
+.idea/vcs.xml
+/venv/
+/__pycache__/
+/six.py
