@@ -1,4 +1,4 @@
-#Fuzzer
+# Fuzzer
 
 Firstly to install all requirements run:
  - pip freeze > requirements.txt
